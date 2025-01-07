@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Cybersecurity and aiming to become a Cybersecurity professional.
 - 💞️ I’m looking to collaborate on on cybersecurity projects and learning initiatives.
 - 📫 How to reach me oluwaseunboda@gmail.com
-- ⚡ Fun fact: I love to get this done.
+- ⚡ Fun fact: I love to get things done.
 
 <!---
 Seunatins/Seunatins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
